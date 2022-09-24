@@ -1,0 +1,29 @@
+[
+  {
+    "name": "Alvin Kam",
+    "interests": ["Coding", "Gaming", "UBC BizTech"],
+    "subscribed": true,
+    "demographics": {
+      "country": "Canada",
+      "age": 21
+    }
+  },
+  {
+    "name": "Jerry Xu",
+    "interests": ["Being Cool", "Being Awesome", "Being Smart"],
+    "subscribed": true,
+    "demographics": {
+      "country": "United States",
+      "age": 20
+    }
+  },
+  {
+    "name": "Benny Chinvanich",
+    "interests": ["Hackathons", "Basketball"],
+    "subscribed": false,
+    "demographics": {
+      "country": "Canada",
+      "age": 19
+    }
+  }
+]
